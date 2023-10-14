@@ -20,7 +20,7 @@ The analysis aims to provide a comprehensive view of movie ratings, trends, and 
 
   # Power BI File
 
-  The Power BI analysis file can be found in the  [IMDB Analysis.pbix](IMDB Analysis.pbix) file.
+  The Power BI analysis file can be found in the [IMDB_Analysis.pbix](IMDB_Analysis.pbix) file.
 
    # Dataset
 
@@ -42,7 +42,7 @@ The analysis aims to provide a comprehensive view of movie ratings, trends, and 
 
  1. Download the Power BI File:
 
-- Click here to download the Power BI file.
+- [Click here](IMDB_Analysis.pbix) to download the Power BI file.
 
  2. Open with Power BI:
 
