@@ -5,8 +5,8 @@ The analysis aims to provide a comprehensive view of movie ratings, trends, and 
 
 # Table of Contents
 
-[Overview]
-[Power BI File]
-[Documentation]
-[Usage]
-[Contributing]
+Overview
+Power BI File
+Documentation
+Usage
+Contributing
